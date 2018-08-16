@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TeamAR>
+  <Player>
+    <Id>1</Id>
+    <Name>John Doe</Name>
+    <Ranking>8</Ranking>
+  </Player>
+  <Player>
+    <Id>3</Id>
+    <Name>Rocky Red</Name>
+    <Ranking>7</Ranking>
+  </Player>
+  <Player>
+    <Id>4</Id>
+    <Name>Bob Sam</Name>
+    <Ranking>10</Ranking>
+  </Player>
+  <Player>
+    <Id>6</Id>
+    <Name>Jane Brat</Name>
+    <Ranking>4</Ranking>
+  </Player>
+  <Player>
+    <Id>5</Id>
+    <Name>Brian kely</Name>
+    <Ranking>5</Ranking>
+  </Player>
+  <Player>
+    <Id>8</Id>
+    <Name>Bobby Sam</Name>
+    <Ranking>2</Ranking>
+  </Player>
+  <Player>
+    <Id>2</Id>
+    <Name>Rob DOe</Name>
+    <Ranking>6</Ranking>
+  </Player>
+  <Player>
+    <Id>7</Id>
+    <Name>Jake Rob</Name>
+    <Ranking>9</Ranking>
+  </Player>
+</TeamAR>
+
+
+
+
